@@ -36,7 +36,7 @@ def main(event, context):
     else:
         try:
             # 执行主程序
-            getTocken(id=apiid,secert=apisecert,msg=apimsg,agentId=apiagentId)
+            getTocken(id=wwc81bec8bd1b1c569,secert=DKRm0bqC_S_3lzTJeYrAzJShqRJ_ffWp8xgr5o99Fng,msg=apimsg,agentId=1000002)
         except:
             status = 1
             apimsg = '主程序运行时出现错误，请检查参数是否填写正确。详情可以参阅：https://blog.zhheo.com/p/1e9f35bc.html'
